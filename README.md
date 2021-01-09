@@ -20,4 +20,4 @@ The dataset includes  the following information;
 - body_camera: indicates whether the officer involved was wearing a body camera or not at the time of the incident.
 threat_level:  indicates whether the victim posed an immediate and direct threat to life- attack. the other cases were undetermined and others.
  
- ##I wrote about my findings [here](https://sherlocked.hashnode.dev/police-shooting-in-the-us-justified-or-not)
+ ### I wrote about my findings [here](https://sherlocked.hashnode.dev/police-shooting-in-the-us-justified-or-not)
