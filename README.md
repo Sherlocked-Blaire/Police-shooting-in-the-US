@@ -1,6 +1,6 @@
 # Police shooting in the US .
 ## Project overview
-This project try summarize the dataset on police shooting in the US and provide insights from many perspectives and most importantly shed light on the objective reasonableness of the officer's decision to use deadly force.
+This project  summarizes the dataset on police shooting in the US and provide insights from many perspectives and most importantly shed light on the objective reasonableness of the officer's decision to use deadly force.
 
 ## About the data
 The dataset was gotten from Washington Post. They have kept records of Polic fatal shooting since 2015.
